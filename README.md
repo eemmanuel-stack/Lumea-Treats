@@ -18,7 +18,7 @@ A responsive website for **Lumea Treats**, a Lagos-based brand that makes fresh 
 | About | `about.html` | The story behind the brand |
 | Menu | `icecream.html` | Full parfait and yoghurt menu |
 | Services | `services.html` | What Lumea Treats offers |
-| Blog | `blog.html` | Blog posts |
+| Reviews | `blog.html` | Customer Reviews |
 | Contact | `contact.html` | Contact details and message form |
 
 ## Featured Products
